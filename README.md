@@ -1,5 +1,6 @@
 # Hey There! I'm ZSolarDev, Solar for short.
 This is my githup profile! If you want to contact me, do so at my discord, @zsolar1.
+
 ![](https://github.com/ZSolarDev/ZSolarDev/blob/main/Banner.png)
 ## What I do...
 I code, make music, and I'm learning art and 3d modeling.
