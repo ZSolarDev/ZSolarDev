@@ -20,4 +20,4 @@ I'm attempting to learn art, and figure out what path I want to take for game de
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsolardev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-# Yes, I'm to busy if your wondering, dont message me about that.
+# Yes, I'm too busy if your wondering, dont message me about that.
