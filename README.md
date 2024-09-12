@@ -18,6 +18,7 @@ I'm actually learning a new programming language: c++. I'm learning it because a
 1. Visual Studio takes actual CENTURIES to update
 2. Visual Studio also takes CENTURIES to install c++ support
 3. Installing SDL for Visual Studio was such a pain. I fr almost started crying, but chatgpt came in cluch. Not even youtube or google could help.
+
 I'm just glad I have it installed. hopefully I don't have to go through that again. But I'm still getting used to things like headers, incudes, syntax, etc. If you can help me on discord from 5-9:30pm EST, then please contact me. Honestly, this language is gonna take a hot minute to understand. Learning c# syntax wasn't too bad, because haxeflixel syntax was really similar. With c++ though, It's something else. It's so different that very little knowledge can carry over. Thank you for reading all of this, it's a lot of stuff. :D
 
 ## Misc
