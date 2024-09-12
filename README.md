@@ -12,8 +12,9 @@ About art, I'm currently learning it. Ive gotten a bit of progress, but nothing 
 ## What I'm learning...
 I'm attempting to learn art, and figure out what path I want to take for game development. Like wether I want to be indie, wether I want to make a team, etc. I'm also trying to learn blender, which is going a lot better than expected.
 
-# C++
 About 3d modeling, Its a lot easier than I was expecting! I actually modeled a soda can with a face like 3 days through learning blender, and I did it without a tutorial! I even modeled the extruding section for the face, the details of the top/bottom of the can, and even the straw. Its all low poly as im not yet ready to make anything actually detailed, but I think I'm doing pretty well with blender.
+
+## C++
 I'm actually learning a new programming language: c++. I'm learning it because a lot of AAA games were built on it. It also has many popular frameworks and libraries, and has a huge community behind it. It took about 2 hours to get a project that says hello world in a console. the reason it took 2 hours was:
 1. Visual Studio takes actual CENTURIES to update
 2. Visual Studio also takes CENTURIES to install c++ support
