@@ -1,13 +1,12 @@
 # Hey There! I'm ZSolarDev, Solar for short.
-This is my githup profile! If you want to contact me, do so at my discord, @zsolar1.
-
+This is my github profile! If you want to contact me, do so at my discord, @zsolar1.
 ![](https://github.com/ZSolarDev/ZSolarDev/blob/main/Banner.png)
 ## What I do...
 I code, make music, and I'm learning art and 3d modeling.
 
 I code in Haxeflixel and Psych Engine Lua. I mod a game called Friday Night Funkin (fnf for short,) But I'm not available for any mods right now. I'm actually working on a lot more projects then intended, and I'm kinda sad about that. I want to get into game development, but It seems that ill be very busy before I can get to what I really want to do. :<
 
-About art, I'm currently learning it. Ive gotten a bit of progress, but nothing so major I would like to show it. So instead, I'll talk about my music. I'm also learning it, but I'm a lot more expirenced. About 1.5 years to be more specific. I don't really make fnf songs, but I'm trying to get more into hip hop/trap, but mainly edm music.
+About art, I'm currently learning it. I've gotten a bit of progress, but nothing so major I would like to show it. So instead, I'll talk about my music. I'm also learning it, but I'm a lot more experienced. About 1.5 years to be more specific. I don't really make fnf songs, but I'm trying to get more into hip hop/trap, but mainly edm music.
 
 ## What I'm working on
 |Projects|Learning|
@@ -18,7 +17,7 @@ About art, I'm currently learning it. Ive gotten a bit of progress, but nothing 
 |Sage.net, a Hunger Games Minecraft Server|How to make Minecraft Plugins on Paper|
 
 ## What I'm learning...
-I'm attempting to learn art, and figure out what path I want to take for game development. Like wether I want to be indie, wether I want to make a team, etc. I'm also trying to learn blender, which is going a lot better than expected.
+I'm attempting to learn art, and figure out what path I want to take for game development. Like whether I want to be indie, whether I want to make a team, etc. I'm also trying to learn blender, which is going a lot better than expected.
 
 About 3d modeling, Its a lot easier than I was expecting! I actually modeled a soda can with a face like 3 days through learning blender, and I did it without a tutorial! I even modeled the extruding section for the face, the details of the top/bottom of the can, and even the straw. Its all low poly as im not yet ready to make anything actually detailed, but I think I'm doing pretty well with blender.
 
@@ -39,3 +38,4 @@ I'm just glad I have it installed. hopefully I don't have to go through that aga
 </a>
 
 # Yes, I'm too busy if your wondering, dont message me about that.
+
