@@ -9,6 +9,14 @@ I code in Haxeflixel and Psych Engine Lua. I mod a game called Friday Night Funk
 
 About art, I'm currently learning it. Ive gotten a bit of progress, but nothing so major I would like to show it. So instead, I'll talk about my music. I'm also learning it, but I'm a lot more expirenced. About 1.5 years to be more specific. I don't really make fnf songs, but I'm trying to get more into hip hop/trap, but mainly edm music.
 
+## What I'm working on
+|Projects|Learning|
+|--|--|
+|A Platformer in HaxeFlixel|How to draw|
+|Cartridge Dysfunktion, an FNF Mod|How to code in C++|
+|Untitled Friend Mod, an FNF Mod|How to 3d model|
+|Sage.net, a Hunger Games Minecraft Server|How to make Minecraft Plugins on Paper|
+
 ## What I'm learning...
 I'm attempting to learn art, and figure out what path I want to take for game development. Like wether I want to be indie, wether I want to make a team, etc. I'm also trying to learn blender, which is going a lot better than expected.
 
