@@ -4,7 +4,11 @@ This is my github profile! If you want to contact me, do so at my discord, @zsol
 ## What I do...
 I code, make music, and I'm learning art and 3d modeling.
 
-I code in Haxeflixel and Psych Engine Lua. I mod a game called Friday Night Funkin (fnf for short,) But I'm not available for any mods right now. I'm actually working on a lot more projects then intended, and I'm kinda sad about that. I want to get into game development, but It seems that ill be very busy before I can get to what I really want to do. :<
+I code in:
+
+[![](https://skillicons.dev/icons?i=haxeflixel,lua)](https://skillicons.dev)
+
+I mod a game called Friday Night Funkin (fnf for short,) But I'm not available for any mods right now. I'm actually working on a lot more projects then intended, and I'm kinda sad about that. I want to get into game development, but It seems that ill be very busy before I can get to what I really want to do. :<
 
 About art, I'm currently learning it. I've gotten a bit of progress, but nothing so major I would like to show it. So instead, I'll talk about my music. I'm also learning it, but I'm a lot more experienced. About 1.5 years to be more specific. I don't really make fnf songs, but I'm trying to get more into hip hop/trap, but mainly edm music.
 
@@ -19,9 +23,15 @@ About art, I'm currently learning it. I've gotten a bit of progress, but nothing
 ## What I'm learning...
 I'm attempting to learn art, and figure out what path I want to take for game development. Like whether I want to be indie, whether I want to make a team, etc. I'm also trying to learn blender, which is going a lot better than expected.
 
+⠀
+
+[![](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
 About 3d modeling, Its a lot easier than I was expecting! I actually modeled a soda can with a face like 3 days through learning blender, and I did it without a tutorial! I even modeled the extruding section for the face, the details of the top/bottom of the can, and even the straw. Its all low poly as im not yet ready to make anything actually detailed, but I think I'm doing pretty well with blender.
 
-## C++
+⠀
+
+## [![](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 I'm actually learning a new programming language: c++. I'm learning it because a lot of AAA games were built on it. It also has many popular frameworks and libraries, and has a huge community behind it. It took about 2 hours to get a project that says hello world in a console. the reason it took 2 hours was:
 1. Visual Studio takes actual CENTURIES to update
 2. Visual Studio also takes CENTURIES to install c++ support
