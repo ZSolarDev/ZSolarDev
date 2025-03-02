@@ -33,7 +33,7 @@ I'm just glad I have it installed. hopefully I don't have to go through that aga
 
 ## Misc
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zsolardev&theme=tokyonight" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=zsolardev&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsolardev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
