@@ -11,8 +11,8 @@ I code, make music, draw, and I'm learning blender.
 I used to mod a game called Friday Night Funkin (fnf for short,) But I'm not available for any mods. I'm getting deep into game development, and I'm loving it.
 
 ### Projects I'm working on
-- I'm currently working on a game development team. We're getting people, but we're kinda short on coders. If you code in haxe/haxeflixel and want to join, DM me on discord! The team is called Synth Productions.
-- I'm working on this game with a friend called [Discordant](https://github.com/ChickenSwimmer2020/Discordant). We have a lot planned, check it out!
+- I'm currently working on a game development team. We're getting people, but we're kinda short on coders. If you code in haxe/haxeflixel and want to join, DM me on discord! The team is called Synth Productions. Also I don't care if you aren't a coder, anybody is welcome if you're skilled enough. I'm emphasizing coders because there's only me and my friend, [Sphis](https://github.com/sphis-sinco).
+- I'm working on this game called [Discordant](https://github.com/ChickenSwimmer2020/Discordant) with by friend [ChickenSwimmer2020](https://github.com/ChickenSwimmer2020). We have a lot planned, check it out!
 - I'm working on a game with Synth Productions called Twilight Rift. It's in its early stages, and the repository is private. I'll put updates when needed!
 
 ### Possibilities of future projects
