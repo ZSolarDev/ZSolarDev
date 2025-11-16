@@ -20,7 +20,7 @@ I used to mod a game called Friday Night Funkin (fnf for short,) But I'm not ava
 - I may or may not have figured out how to replicate the human brain with neural networks?? It's definetly not at the same level of detail, but its a rough replicate. Its made from many structured neural networks strung together by semi-deterministic logic. It's super complex, and I have some paragraphs which go into detail. I won't share it here, but I still wonder if it'll work...
 - I'm possibly gonna make a raytracer which acts like a path tracer but instead of random sampling, i'm using some custom importance sampling. It's quite complex, so I won't explain here, but that's a thing. Also i've been thinking of a way to draw caustics which instead of low rays -> horrible caustics, low rays -> less realistic but still nice caustics. It's complicated and my theory isn't complete, but it's a possibility.
 
-### Art
+### Music/Art
 About art, I'm currently learning it. I've gotten a bit of progress, and I'm doing great on paper. I can draw poses, characters, hair, heads, and a lot more, and I usually use an anime style. I still need more practice with digital, though. About my music, I'm also learning it, but I'm a lot more experienced. About 2 years to be more specific. I don't really make fnf songs anymore, it's rare. I'm trying a lot of new styles of music at the moment.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
