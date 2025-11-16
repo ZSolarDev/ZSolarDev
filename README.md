@@ -13,7 +13,7 @@ I used to mod a game called Friday Night Funkin (fnf for short,) But I'm not ava
 ### Projects I'm working on
 - I'm currently working on a game development team. We need more people though,and if you want to join, DM me on discord! The team is called Synth Studio.
 - Synth Studio is currently working on an FNF fangame called Groovin' Every Night, made in Haxeflixel.
-- I'm working on my own take of Hatsune Miku Project Diva, but for mobile and desktop and it's easily moddable, even supporting dsc files natively. It's called [VoxMania](https://github.com/ZSolarSev/VoxMaina), go check it out; It's made with in Java withLibGDX!
+- I'm working on my own take of Hatsune Miku Project Diva, but for mobile and desktop and it's easily moddable, even supporting dsc files natively. It's called [VoxMania](https://github.com/ZSolarSev/VoxMaina), go check it out; It's made with in Java with LibGDX!
 - I'm working on an AI assisted Vocal Synthesizer which is made to be DiffSinger but it's faster and much easier to make voicebanks with similar it not the same level of quality.
 
 ### Possibilities of future projects
