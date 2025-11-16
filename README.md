@@ -21,7 +21,7 @@ I used to mod a game called Friday Night Funkin (fnf for short,) But I'm not ava
 - I'm possibly gonna make a raytracer which acts like a path tracer but instead of random sampling, i'm using some custom importance sampling. It's quite complex, so I won't explain here, but that's a thing. Also i've been thinking of a way to draw caustics which instead of low rays -> horrible caustics, low rays -> less realistic but still nice caustics. It's complicated and my theory isn't complete, but it's a possibility.
 
 ### Art
-About art, I'm currently learning it. I've gotten a bit of progress, and I'm doing good on paper. I still need more practice with digital, though. Bout my music, I'm also learning it, but I'm a lot more experienced. About 1.5 years to be more specific. I don't really make fnf songs anymore, it's rare. I'm trying a lot of new styles of music at the moment.
+About art, I'm currently learning it. I've gotten a bit of progress, and I'm doing great on paper. I can draw poses, characters, hair, heads, and a lot more, and I usually use an anime style. I still need more practice with digital, though. About my music, I'm also learning it, but I'm a lot more experienced. About 2 years to be more specific. I don't really make fnf songs anymore, it's rare. I'm trying a lot of new styles of music at the moment.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=zsolardev&theme=tokyonight" />
