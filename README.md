@@ -14,7 +14,8 @@ I used to mod a game called Friday Night Funkin (fnf for short,) But I'm not ava
 - I'm currently working on a game development team. We need more people though,and if you want to join, DM me on discord! The team is called Synth Studio.
 - Synth Studio is currently working on an FNF fangame called Groovin' Every Night, made in Haxeflixel.
 - I'm working on my own take of Hatsune Miku Project Diva, but for mobile and desktop and it's easily moddable, even supporting dsc files natively. It's called [VoxMania](https://github.com/ZSolarSev/VoxMaina), go check it out; It's made with in Java with LibGDX!
-- I'm working on an AI assisted Vocal Synthesizer which is made to be DiffSinger but it's faster and much easier to make voicebanks with similar it not the same level of quality.
+- I'm working on an AI assisted Vocal Synthesizer which is made to be DiffSinger but it's faster and much easier to make voicebanks with similar it not the same level of quality(less active atm)
+- I'm working in my own game engine built from Java/LibGDX called [Axiom](https://github.com/ZSolarDev/Axiom). Go check it out, it's very unique.
 
 ### Possibilities of future projects
 - I may or may not have figured out how to replicate the human brain with neural networks?? It's definetly not at the same level of detail, but its a rough replicate. Its made from many structured neural networks strung together by semi-deterministic logic. It's super complex, and I have some paragraphs which go into detail. I won't share it here, but I still wonder if it'll work...
