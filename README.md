@@ -6,7 +6,10 @@ I code, research AI safety, make music, and draw.
 
 ### I code in these programming languages:
 
-![](https://skillicons.dev/icons?i=haxe,haxeflixel,java,python,react,vite,ts,html)
+![](https://skillicons.dev/icons?i=haxe,haxeflixel,java,python,react,vite,js,ts)
+
+### I use these game engines:
+![](https://skillicons.dev/icons?i=godot)
 
 ### I use these IDEs:
 
