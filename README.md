@@ -6,7 +6,7 @@ I code, make music, and draw.
 
 ### I code in these programming languages:
 
-![](https://skillicons.dev/icons?i=haxe,haxeflixel,java,python,react,vite,js,ts)
+![](https://skillicons.dev/icons?i=haxe,haxeflixel,java)
 
 ### I use these game engines:
 ![](https://skillicons.dev/icons?i=godot)
