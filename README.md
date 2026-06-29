@@ -20,9 +20,9 @@ I'm learning a lot about art! I'm getting great progress, and I mainly draw on p
 I've been doing great at music too. I've been making music for 4+ years, and I've been drawing for 2+ years. Here's my [Music!](https://drive.google.com/drive/folders/1cfpfwaZC601xxz55Y0r1zra5oY4Ci1rk?usp=sharing)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=zsolardev&theme=tokyonight" />
+  <img height=180 align="left" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsolardev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=180 align="right" src="./profile/top-langs.svg" />
 </a>
 
